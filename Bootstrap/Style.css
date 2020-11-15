@@ -1,0 +1,16 @@
+.btn-danger{
+	background-color: maroon;
+	border-radius: 20px;
+	margin-left: 22px;
+	
+}
+.btn-danger:hover{
+	background-color: black;
+	cursor: help;
+
+}
+.col {
+	color: white;
+	background-color: black;
+	border:3px solid orange;
+}
